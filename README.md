@@ -55,11 +55,7 @@
         <td>(28.2%)</td>
     </tr>
 </table>
-<script>
-    for(int i=0;i<10;i++){
-        document.write('<br/>');
-    }
-</script>
+<br><br><br><br><br><br><br><br>
 
 [myweb](https://changyu.nycu.me/)<br>
 可惡 什麼時候要買網域<br>
