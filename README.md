@@ -106,7 +106,6 @@
 </table>
 <br><br><br><br><br><br><br><br><br>
 
-[myweb](https://changyu.nycu.me/)<br>
 可惡 什麼時候要買網域<br>
 
 <!--+這裡應該會放東西吧(應該-->
