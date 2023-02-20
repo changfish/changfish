@@ -1,20 +1,64 @@
 ### Hello 👋
+我好懶 改天再來搞這個.w.<br><br>
 
-<div>
-    我好懶 改天再來搞這個.w.<br><br>
-    &emsp;&emsp;&nbsp;&nbsp;&nbsp;/*化學*/<br>
-    7thAPX化學&emsp;&emsp;&emsp;&nbsp;PR90<br>
-    18th清華盃&emsp;&emsp;&emsp;&nbsp;&nbsp;PR95<br>
-    2022IChO&emsp;&emsp;&emsp;&emsp;&nbsp;PR89<br>
-    111分科一模化學&emsp;PR97<br>
-    111分科二模化學&emsp;PR99<br>
-    111分科三模化學&emsp;PR99<br>
-    111分科化學&emsp;&emsp;&emsp;PR91<br><br>
-    &emsp;&emsp;&nbsp;&nbsp;&nbsp;/*資訊*/<br>
-    APCS&emsp;&emsp;3 , 3&emsp;&emsp;(37.9%,22.4%)<br>
-    CPE&emsp;&emsp;&nbsp;&nbsp;2 / 7&ensp;&emsp;&nbsp;&nbsp;(28.2%)<br><br>
-</div>
+td{
+    align:center;
+}
 
+<table>
+    <tr ><td colspan="2" align="center">/*化學*/</td></tr>
+    <tr align="center">
+        <td>NAME</td>
+        <td>RANK</td>
+    </tr>
+    <tr align="center">
+        <td>7thAPX化學</td>
+        <td>PR90</td>
+    </tr>
+    <tr align="center">
+        <td>18th清華盃</td>
+        <td>PR95</td>
+    </tr>
+    <tr align="center">
+        <td>2022IChO</td>
+        <td>PR89</td>
+    </tr>
+    <tr align="center">
+        <td>111分科一模化學</td>
+        <td>PR97</td>
+    </tr>
+    <tr align="center">
+        <td>111分科二模化學</td>
+        <td>PR99</td>
+    </tr>
+    <tr align="center">
+        <td>111分科三模化學</td>
+        <td>PR99</td>
+    </tr>
+    <tr align="center">
+        <td>111分科化學</td>
+        <td>PR91</td>
+    </tr>
+<table><br>
+<table>
+<tr align="center"><td colspan="3">/*資訊*/</td></tr>
+    <tr align="center">
+        <td >NAME</td>
+        <td>GRADE</td>
+        <td>RANK</td>
+    </tr>
+    <tr align="center">
+        <td>APCS</td>
+        <td>3  ,  3</td>
+        <td>(37.9%,22.4%)</td>
+    </tr>
+    <tr align="center">
+        <td>CPE</td>
+        <td>2 / 7</td>
+        <td>(28.2%)</td>
+    </tr>
+</table>
+</br>
 
 [myweb](https://changyu.nycu.me/)<br>
 可惡 什麼時候要買網域<br>
