@@ -36,7 +36,8 @@
         <td>PR91</td>
     </tr>
 </table><br>
-<table  width = 45% align="right">
+
+<table  width = 45%>
 <tr align="center"><td colspan="3">/*資訊*/</td></tr>
     <tr align="center">
         <td >NAME</td>
