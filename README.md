@@ -35,8 +35,8 @@
         <td>111分科化學</td>
         <td>PR91</td>
     </tr>
-</table><br>
-<p>  </p>
+</table>
+
 <table  width = 55%>
 <tr align="center"><td colspan="3">/*資訊*/</td></tr>
     <tr align="center">
@@ -55,7 +55,11 @@
         <td>(28.2%)</td>
     </tr>
 </table>
-
+<script>
+    for(int i=0;i<10;i++){
+        document.write('<br/>');
+    }
+</script>
 
 [myweb](https://changyu.nycu.me/)<br>
 可惡 什麼時候要買網域<br>
