@@ -3,32 +3,28 @@
 <table align="center">
     <tr align="center">
         <td colspan="2">/*化學*/</td>
-        <td colspan="1" style="border-top: none;border-bottom: none;"></td>
         <td colspan="3" >/*資訊*/</td>
     </tr>
     <tr align="center">
         <td>NAME</td>
         <td>RANK</td>
-        <td></td>
         <td>NAME</td>
         <td>GRADE</td>
-        <td>RANK</td>
-    </tr>
-</table>
-
-<table  width = 45% align="left">
-    <tr ><td colspan="2" align="center">/*化學*/</td></tr>
-    <tr align="center">
-        <td>NAME</td>
         <td>RANK</td>
     </tr>
     <tr align="center">
         <td>7thAPX化學</td>
         <td>PR90</td>
+        <td>APCS</td>
+        <td>3 , 3</td>
+        <td>(37.9%,22.4%)</td>
     </tr>
     <tr align="center">
         <td>18th清華盃</td>
         <td>PR95</td>
+        <td>CPE</td>
+        <td>2 / 7</td>
+        <td>(28.2%)</td>
     </tr>
     <tr align="center">
         <td>2022IChO</td>
@@ -52,25 +48,7 @@
     </tr>
 </table>
 
-<table  width = 55%>
-<tr align="center"><td colspan="3">/*資訊*/</td></tr>
-    <tr align="center">
-        <td >NAME</td>
-        <td>GRADE</td>
-        <td>RANK</td>
-    </tr>
-    <tr align="center">
-        <td>APCS</td>
-        <td>3  ,  3</td>
-        <td>(37.9%,22.4%)</td>
-    </tr>
-    <tr align="center">
-        <td>CPE</td>
-        <td>2 / 7</td>
-        <td>(28.2%)</td>
-    </tr>
-</table>
-<br><br><br><br><br><br><br><br><br>
+
 
 [myweb](https://changyu.nycu.me/)<br>
 可惡 什麼時候要買網域<br>
