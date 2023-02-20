@@ -11,8 +11,8 @@
     111分科三模化學&emsp;PR99<br>
     111分科化學&emsp;&emsp;&emsp;PR91<br><br>
     &emsp;&emsp;&nbsp;&nbsp;&nbsp;/\*資訊\*/<br>
-    APCS 3,3&emsp;&emsp;(37.9%,22.4%)<br>
-    CPE 2/7&emsp;&emsp;&nbsp;&nbsp;(28.2%)<br><br>
+    APCS&emsp;&emsp;3 , 3&emsp;&emsp;(37.9%,22.4%)<br>
+    CPE&emsp;&emsp;&nbsp;&nbsp;2 / 7&ensp;&emsp;&nbsp;&nbsp;(28.2%)<br><br>
 </div>
 <div>
 [myweb](https://changyu.nycu.me/)<br>
