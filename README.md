@@ -3,7 +3,7 @@
 <table align="center">
     <tr align="center">
         <td colspan="2">/*化學*/</td>
-        <td colspan="1" border-top: none; border-bottom: none;></td>
+        <td colspan="1" style="border-top: none;border-bottom: none;"></td>
         <td colspan="3" >/*資訊*/</td>
     </tr>
     <tr align="center">
