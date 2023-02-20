@@ -1,6 +1,10 @@
 ### Hello 👋
 我好懶 改天再來搞這個.w.<br>
 /\*化學\*/<br>
+7thAPX化學&emsp;PR90<br>
+18th清華盃&emsp;PR95<br>
+2022IChOPR&emsp;PR89<br>
+
 [myweb](https://changyu.nycu.me/)<br>
 可惡 什麼時候要買網域
 <!--+這裡應該會放東西吧(應該-->
