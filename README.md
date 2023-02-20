@@ -1,11 +1,7 @@
 ### Hello 👋
 我好懶 改天再來搞這個.w.<br><br>
 
-td{
-    align:center;
-}
-
-<table>
+<table  width = 45% align="left">
     <tr ><td colspan="2" align="center">/*化學*/</td></tr>
     <tr align="center">
         <td>NAME</td>
@@ -39,8 +35,8 @@ td{
         <td>111分科化學</td>
         <td>PR91</td>
     </tr>
-<table><br>
-<table>
+</table><br>
+<table  width = 45% align="right">
 <tr align="center"><td colspan="3">/*資訊*/</td></tr>
     <tr align="center">
         <td >NAME</td>
@@ -58,7 +54,7 @@ td{
         <td>(28.2%)</td>
     </tr>
 </table>
-</br>
+
 
 [myweb](https://changyu.nycu.me/)<br>
 可惡 什麼時候要買網域<br>
