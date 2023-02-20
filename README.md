@@ -1,5 +1,20 @@
 ### Hello 👋
 我好懶 改天再來搞這個.w.<br><br>
+<table align="center">
+    <tr align="center">
+        <td colspan="2">/*化學*/</td>
+        <td colspan="1"></td>
+        <td colspan="3" >/*資訊*/</td>
+    </tr>
+    <tr align="center">
+        <td>NAME</td>
+        <td>RANK</td>
+        <td></td>
+        <td>NAME</td>
+        <td>GRADE</td>
+        <td>RANK</td>
+    </tr>
+</table>
 
 <table  width = 45% align="left">
     <tr ><td colspan="2" align="center">/*化學*/</td></tr>
@@ -55,7 +70,7 @@
         <td>(28.2%)</td>
     </tr>
 </table>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 [myweb](https://changyu.nycu.me/)<br>
 可惡 什麼時候要買網域<br>
