@@ -49,7 +49,7 @@
     </tr>
 </table>
 -->
-<p align="center">coding部分還在努力;w;</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;coding部分還在努力;w;</p>
 <table  width = 45% align="left">
     <tr ><td colspan="2" align="center">/*化學*/</td></tr>
     <tr align="center">
