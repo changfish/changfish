@@ -68,8 +68,8 @@
     </tr>
     <tr align="center">
         <td>CPE</td>
-        <td>2 / 7</td>
-        <td>(28.2%)</td>
+        <td>3 / 7</td>
+        <td>(24.9%)</td>
     </tr>
 </table>
 <br><br><br><br><br><br><br><br><br>
