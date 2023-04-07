@@ -52,22 +52,6 @@
         <td>2022IChO</td>
         <td>PR89</td>
     </tr>
-    <tr align="center">
-        <td>111分科一模化學</td>
-        <td>PR97</td>
-    </tr>
-    <tr align="center">
-        <td>111分科二模化學</td>
-        <td>PR99</td>
-    </tr>
-    <tr align="center">
-        <td>111分科三模化學</td>
-        <td>PR99</td>
-    </tr>
-    <tr align="center">
-        <td>111分科化學</td>
-        <td>PR91</td>
-    </tr>
 </table>
 
 <table  width = 55%>
